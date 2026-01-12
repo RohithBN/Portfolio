@@ -27,6 +27,11 @@
       "name": "LinkedIn",
       "url": "https://www.linkedin.com/in/rohith-bn-b9485b318/",
       "icon": "linkedin"
+    },
+    {
+      "name":"Leetcode",
+      "url":"https://leetcode.com/u/Rohith_BN/",
+      "icon":"leetcode"
     }
   ],  
   "skills" : [
