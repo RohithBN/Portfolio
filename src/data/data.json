@@ -1,0 +1,241 @@
+{
+  "theme": "monochrome",
+  "github": "RohithBN",
+  "illustration": true,
+  "profile": {
+    "name": "Rohith BN",
+    "handle": "rohithbn27",
+    "avatar": "/assets/rohith.JPG",
+    "banner": "/assets/image.png",
+    "bio": "Backend engineer obsessed with how systems talk to each other, fail gracefully, and scale under pressure. Fascinated by distributed systems and the chaos that comes with them.",
+    "location": "Bangalore",
+    "resumeUrl": "https://drive.google.com/file/d/1DE2M6n1HIIBgiJ7U9c66agJyWQ5DAbSg/view?usp=sharing",
+    "email": "rohithbn27@gmail.com"
+  },
+  "roles": [
+    "Fullstack Developer",
+    "Backend Developer",
+    "Public Speaker"
+  ],
+  "socials": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/RohithBN",
+      "icon": "github"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rohith-bn-b9485b318/",
+      "icon": "linkedin"
+    }
+  ],  
+  "skills" : [
+  {
+    "name": "JavaScript",
+    "icon": "javascript",
+    "color": "#F7DF1E"
+  },
+  {
+    "name": "TypeScript",
+    "icon": "typescript",
+    "color": "#3178C6"
+  },
+  {
+    "name": "Go",
+    "icon": "go",
+    "color": "#00ADD8"
+  },
+  {
+    "name": "C++",
+    "icon": "cplusplus",
+    "color": "#00599C"
+  },
+  {
+    "name": "React",
+    "icon": "react",
+    "color": "#61DAFB"
+  },
+  {
+    "name": "Next.js",
+    "icon": "nextdotjs",
+    "color": "#000000"
+  },
+  {
+    "name": "Node.js",
+    "icon": "nodedotjs",
+    "color": "#339933"
+  },
+  {
+    "name": "Docker",
+    "icon": "docker",
+    "color": "#2496ED"
+  },
+  {
+    "name": "Redis",
+    "icon": "redis",
+    "color": "#DC382D"
+  },
+  {
+    "name": "Apache Kafka",
+    "icon": "apachekafka",
+    "color": "#231F20"
+  },
+  {
+    "name": "Prometheus",
+    "icon": "prometheus",
+    "color": "#E6522C"
+  },
+  {
+    "name": "Grafana",
+    "icon": "grafana",
+    "color": "#F46800"
+  },
+  {
+    "name": "PostgreSQL",
+    "icon": "postgresql",
+    "color": "#4169E1"
+  },
+  {
+    "name": "MongoDB",
+    "icon": "mongodb",
+    "color": "#47A248"
+  },
+  {
+    "name": "MySQL",
+    "icon": "mysql",
+    "color": "#4479A1"
+  },
+  {
+    "name": "Firebase",
+    "icon": "firebase",
+    "color": "#FFCA28"
+  }
+],
+  "experience": [
+    {
+      "company": "Strmly",
+      "role": "Backend Developer",
+      "type": "Intern",
+      "period": "June 2025 - Nov 2025",
+      "location": "Remote",
+      "details": [
+        "Built a scalable video streaming platform using Node.js, Express.js, and MongoDB with presigned S3 upload",
+        "Created BullMQ pipelines for FFmpeg transcoding and thumbnails.",
+        "Implemented monetization features including subscriptions, pay-per-view, creator revenue sharing, and viewer analytics."
+      ]
+    },
+    {
+      "company": "RootsGoods",
+      "role": "AI/ML",
+      "type": "Intern",
+      "period": "Dec 2024 - March 2025",
+      "location": "Remote",
+      "details": [
+        "Developed a Bi-LSTM-based time-series forecasting model to predict maize prices across markets in Karnataka.",
+        "Collected and curated 15,000+ rows of historical maize price data from major market locations."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Dayananda Sagar College Of Engineering",
+      "degree": "Bachelor Of Engineering",
+      "field": "Information Science",
+      "period": "2022 - 2026",
+      "location": "Bangalore",
+      "grade": "9.65"
+    },
+    {
+      "institution": "Kumarans PU College",
+      "degree": "12th Grade",
+      "field": "Science",
+      "period": "2020 - 2022",
+      "location": "Bangalore",
+      "grade":"9.82"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Neurosphere",
+      "slug": "neurosphere",
+      "description": "The ultimate plan to end all conflict by uniting the world against a common enemy, achieving lasting peace through sacrifice.",
+      "tags": [
+        "Typescript",
+        "NextJS",
+        "Firebase",
+        "Reinforcement Learning"
+      ],
+      "github": "https://github.com/RohithBN/NeuroSphere",
+      "image":"/assets/neurosphere.png",
+      "demo": "https://neuro-sphere-five.vercel.app",
+      "featured": true
+    },
+    {
+      "id": "2",
+      "title": "OpusAI",
+      "slug": "opusai",
+      "description": "Technical interview preparation remains a significant challenge for job seekers, with limited access to personalized feedback and practice opportunities.",
+      "tags": [
+        "NextJs",
+        "Vapi",
+        "NeonDB",
+        "Firebase"
+      ],
+      "image":"/assets/opus.png",
+      "github": "https://github.com/RohithBN/AI-Coach",
+      "demo": "https://opus-ai-prep.vercel.app",
+      "featured": true
+    },
+    {
+      "id": "3",
+      "title": "PeerCast",
+      "slug": "peercast",
+      "description": " Peer-to-Peer communication platform enabling real-time video/audio calls, live chat, screen sharing, and encrypted file transfer using WebRTC.",
+      "tags": [
+        "Go",
+        "React",
+        "WebRTC"
+      ],
+      "github": "https://github.com/RohithBN/Video-chat-app",
+      "demo": null,
+      "featured": true
+    },
+    {
+      "id": "4",
+      "title": "YT2Prompt",
+      "slug": "ecm",
+      "description": "Chrome extension that transcribes YouTube videos and enables real-time Q&A and Obsidian integration for quick notes",
+      "tags": [
+        "React",
+        "Chrome Extension",
+        "TypeScript",
+        "Whisper AI"
+      ],
+      "github": "https://github.com/RohithBN/yt2prompt",
+      "demo": null,
+      "featured": true
+    }
+  ],
+  "blogs": [
+    {
+  "slug": "self-hosted-markdown-grammar-html-go-docker-languagetool",
+  "title": "Self-Hosted Markdown Grammar Checking & HTML Rendering Using Go + Docker",
+  "date": "2025-11-25",
+  "excerpt": "A walkthrough on building a self-hosted Markdown notes app with grammar checking via LanguageTool, HTML rendering in Go, and a full Docker-Compose setup.",
+  "tags": [
+    "Go",
+    "Docker",
+    "Markdown",
+    "LanguageTool",
+    "Backend"
+  ],
+  "coverImage": "/assets/blog.png",
+  "url":"https://medium.com/@rohithbn27/self-hosted-markdown-grammar-checking-html-rendering-using-go-docker-powered-by-languagetool-63314e0cbb11"
+}
+  ],
+  "quotes": [
+    "Here to exist, and maybe to make sense of it all someday.",
+    "I will not repent. This is my path, and I will walk it to the end."
+  ]
+}
